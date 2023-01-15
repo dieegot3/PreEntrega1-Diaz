@@ -5,7 +5,7 @@ function descuento(porcentaje) {
   return alert(
     `El precio final con 10% de descuento al pagar en efectivo pasaria de $${precioJuego} a $${calculo}. Estarias ahorrando $${
       precioJuego - calculo
-    } al pagar de este modo.6`
+    } al pagar de este modo.`
   );
 }
 
